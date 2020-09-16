@@ -1,0 +1,55 @@
+!worms 4
+!turntime 30
+
+!blood on
+!teleport off
+
+!ammo supersheep 1
+!ammo airstrike 1
+!ammo napalm 1
+!ammo banana 1
+!ammo holy 1
+!ammo homingmissile 2
+!ammo pigeon 1
+!ammo dynamite 1
+!ammo jetpack 1
+!ammo torch 2
+!ammo petrol 2
+!ammo cow 1
+!ammo woman 1
+
+!delay supersheep 0
+!delay airstrike 0
+!delay napalm 0
+!delay banana 0
+!delay holy 0
+!delay homingmissile 0
+!delay pigeon 0
+!delay dynamite 0
+!delay jetpack 0
+!delay torch 0
+!delay petrol 0
+!delay cow 0
+!delay woman 0
+
+
+!ammo mole bomb 1
+!delay mole bomb 0
+!ammo scales 1
+!delay scales 0
+!ammo salvation 1
+!delay salvation 0
+!ammo mb 1
+!delay mb 0
+!ammo priceless 1
+!delay priceless 0
+!ammo french 1
+!delay french 0
+!ammo carpet 1
+!delay carpet 0
+!ammo concrete 1
+!delay concrete 0
+!ammo indian 1
+!delay indian 0
+!ammo armageddon 1
+!delay armageddon 0
